@@ -1,0 +1,5 @@
+{
+    "name": "Laravel Test Workflow",
+    "description": "Build and test a Laravel application.",
+    "iconName": "laravel"
+}
