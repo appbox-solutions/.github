@@ -1,0 +1,5 @@
+{
+    "name": "Laravel Test and Deploy to Staging Workflow",
+    "description": "Build, test, and deploy a Laravel application to a staging server.",
+    "iconName": "laravel"
+}
